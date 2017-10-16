@@ -10,7 +10,7 @@ our $VERSION = '0.01';
 
 =head1 NAME
 
-RT-Extension-GroupSummary - Display a summary of a group
+RT::Extension::GroupSummary - Display a summary of a group
 
 =head1 DESCRIPTION
 
