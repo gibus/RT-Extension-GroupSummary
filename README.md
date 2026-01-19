@@ -4,9 +4,9 @@ RT::Extension::GroupSummary - Display a summary of a group
 
 # DESCRIPTION
 
-This module allows RT to display semantic information about any [group](https://metacpan.org/pod/RT::Group), mainly through CustomFields attached to this [group](https://metacpan.org/pod/RT::Group).
+This module allows RT to display semantic information about any [group](https://metacpan.org/pod/RT%3A%3AGroup), mainly through CustomFields attached to this [group](https://metacpan.org/pod/RT%3A%3AGroup).
 
-It displays information about a [group](https://metacpan.org/pod/RT::Group) on a Group Summary page, similar to what is done about a [user](https://metacpan.org/pod/RT::User). A Group Summary page includes the name, the description and CustomFields of a group. The Group Summary page can be accessed from any tabs of `Admin/Groups` and is linked to any display of a [principal](https://metacpan.org/pod/RT::Principal) which is a [group](https://metacpan.org/pod/RT::Group) (just like any display of a [principal](https://metacpan.org/pod/RT::Principal) which is a [user](https://metacpan.org/pod/RT::User) is linked to the related User Summary page).
+It displays information about a [group](https://metacpan.org/pod/RT%3A%3AGroup) on a Group Summary page, similar to what is done about a [user](https://metacpan.org/pod/RT%3A%3AUser). A Group Summary page includes the name, the description and CustomFields of a group. The Group Summary page can be accessed from any tabs of `Admin/Groups` and is linked to any display of a [principal](https://metacpan.org/pod/RT%3A%3APrincipal) which is a [group](https://metacpan.org/pod/RT%3A%3AGroup) (just like any display of a [principal](https://metacpan.org/pod/RT%3A%3APrincipal) which is a [user](https://metacpan.org/pod/RT%3A%3AUser) is linked to the related User Summary page).
 
 This module also provides a Group Summary Search feature and links results to related Group Summary pages.
 
