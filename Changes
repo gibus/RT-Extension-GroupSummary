@@ -1,5 +1,8 @@
 Revision history for RT-Extension-GroupSummary
 
+0.04 2026-01-27
+ - Fix install errors due to debian version of Module::Install::RTx
+
 0.03 2026-01-19
  - This extension has been integrated into RT 5 core and therefore is useless for RT 5.0.0 and upper.
  - Update copyright year to 2026
